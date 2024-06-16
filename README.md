@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hola, mi nombre es Jose David👋
+### Programador en formacion 
+
+![](banner.jpg)
+
+
+
 
 <!--
 **Jdavidrb/Jdavidrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
