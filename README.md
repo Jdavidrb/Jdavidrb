@@ -1,7 +1,7 @@
-## Hola, mi nombre es Jose David👋
-### Programador en formacion 
+## Hi there, I'm Jose David 
+# Student 
 
-![](banner.jpg)
+
 
 
 
